@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>TC Calc</title>
+        <link>https://editkit-tools.github.io/tccalc-mac/appcast.xml</link>
+        <description>TC Calc release history</description>
+        <language>en</language>
+
+        <item>
+            <title>Version 1.0.0</title>
+            <sparkle:releaseNotesLink>https://editkit.tools/tccalc/release-notes/1.0.0.html</sparkle:releaseNotesLink>
+            <pubDate>Fri, 05 Jun 2026 12:00:00 +0100</pubDate>
+            <enclosure
+                url="https://github.com/editkit-tools/tccalc-mac/releases/download/v1.0.0/TCCalc.dmg"
+                sparkle:version="1"
+                sparkle:shortVersionString="1.0.0"
+                sparkle:edSignature="hMrkPhdViGuSBTysWEXEVDjlztpfgBtKUSFXezgNYNQWbIrYmlJBh2iTc8j/x4q0jmnk+lx2Iwb1VUkl7a5wBA=="
+                length="2429150"
+                type="application/octet-stream"
+            />
+        </item>
+
+    </channel>
+</rss>
